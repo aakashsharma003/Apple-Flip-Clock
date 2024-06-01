@@ -89,4 +89,7 @@ body {
   .seconds-box {
     margin: 0.5rem;
   }
+  .time-zone {
+    display: none;
+  }
 }
